@@ -124,3 +124,56 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.card1 {
+    background-color: #f9f9f9;
+    padding: 6px;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card1-img-top {
+    width: 100%;
+    height: 200;
+    border-radius: 10px;
+    align-items:top;
+}
+
+.contact-info {
+    text-align:;
+    flex: 1;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h2 {
+    color: #00c1c1;
+     margin-left:500;
+  margin-right:200; 
+  width: 100%;
+}
+
+.contact-info p {
+    font-size: 16px;
+    margin:10px;
+    margin-left:500;
+  margin-right:auto; /* Centers the image horizontally */
+  width: 100%;
+}
+.card {
+     flex: 1;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.img1
+{
+  display: block; /* Makes the image a block element */
+  margin-left:500;
+  margin-right:; /* Centers the image horizontally */
+  width: 100%; /* Optional: to control image size */
+}
